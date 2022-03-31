@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'NodeAssignmentPortfolioSN'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_952ADC847234411FA9FCBD3FD10ED77E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8ABBB320AE4D49DEAB6365D645D1F4D8 }}
           package: .
